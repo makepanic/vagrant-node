@@ -1,1 +1,1 @@
-#vagrant-node
+#vagrant-nodejs

@@ -1,6 +1,0 @@
-windows:
-  - name: "webdev-session"
-    layout: even-vertical
-    panes:
-      - cmd: ["cd /vagrant/jekyll/", "jekyll serve --watch"]
-      - cmd: "sass --watch /vagrant/sass/"
